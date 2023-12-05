@@ -1,0 +1,28 @@
+# Reporte de Prueba Automatizada - Login con Credenciales standard_user
+
+## Objetivo
+El objetivo de esta prueba automatizada es verificar el proceso de inicio de sesión utilizando las credenciales de un usuario estándar en el sitio web https://www.saucedemo.com/.
+
+## Resultados
+La prueba se ejecutó correctamente y los siguientes pasos fueron realizados:
+
+1. Se abrió el navegador Chrome.
+2. Se navegó a la URL https://www.saucedemo.com/.
+3. Se ingresó el nombre de usuario 'standard_user' en el campo de usuario.
+4. Se ingresó la contraseña 'secret_sauce' en el campo de contraseña.
+5. Se hizo clic en el botón de inicio de sesión.
+6. Se esperó 5 segundos para permitir que la página cargue completamente.
+7. Se cerró el navegador y la sesión se finalizó correctamente.
+
+## Observaciones
+- La prueba se completó sin errores aparentes.
+- Se verificó con éxito el flujo de inicio de sesión utilizando las credenciales 'standard_user'.
+
+## Conclusiones
+El flujo de inicio de sesión con las credenciales de usuario estándar se completó satisfactoriamente. No se detectaron problemas durante la ejecución de la prueba, lo que indica un proceso de inicio de sesión exitoso.
+
+---
+
+*Fecha de Ejecución:* [3/12/2023]
+*Entorno de Prueba:* [Chrome]
+*Responsable:* [Anderson Ledesma]
